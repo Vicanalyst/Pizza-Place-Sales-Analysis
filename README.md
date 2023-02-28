@@ -1,2 +1,1 @@
-# Pizza-Place-Sales-Analysis
-Analysis of the Pizza Place Sales dataset provided by Maven Analytics
+In this project, I analyzed a dataset provided by Maven Analytics for a fictitious pizza restaurant. The dataset includes information on orders, pizzas, and pizza types. The goal of the analysis was to provide insights and recommendations to help the restaurant's leaders make informed decisions about managing the business. Specifically, I aimed to answer four major questions related to customer traffic, pizza orders, sales revenue, and menu optimization. Through this project, I documented my analysis process and findings, which can serve as a guide for other data analysts or restaurant managers looking to make data-driven decisions.
